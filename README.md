@@ -7,4 +7,3 @@ This project implements a mock API for AWS SES using the Gin framework. It simul
 - Simulates AWS SES email sending API
 - Tracks email usage statistics
 
-## Folder Structure
